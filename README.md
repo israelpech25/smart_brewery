@@ -1,2 +1,1 @@
-# smart_brewery
-Innovator challenge project
+This is my readme fule :-)
